@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;ASP.NET+Core+Developer;React+%2B+TypeScript+Developer;Building+Scalable+Web+Applications;Backend+API+Developer&center=true&width=700&height=50&color=58A6FF&pause=1000&size=28" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 ---
 
