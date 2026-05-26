@@ -6,19 +6,19 @@
 </p>
 
 <!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=VyshnaviRadhakrishnan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p> -->
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer with hands-on experience in enterprise application development
-* ⚡ Specialized in backend API development using ASP.NET Core Web API and Entity Framework Core
-* 🎨 Experienced in modern frontend development using React.js, TypeScript, Redux, and Tailwind CSS
-* 🗄️ Worked with PostgreSQL, MySQL, REST APIs, authentication, validations, and scalable workflows
-* 🚀 Contributed to CRM, Forex, Travel, and CPV Consular Passport & Visa systems
-* 📈 Focused on building scalable, maintainable, and clean architecture-based applications
+- 💻 Full Stack Developer with hands-on experience in enterprise application development
+- ⚡ Specialized in backend API development using ASP.NET Core Web API and Entity Framework Core
+- 🎨 Experienced in modern frontend development using React.js, TypeScript, Redux, and Tailwind CSS
+- 🗄️ Worked with PostgreSQL, MySQL, REST APIs, authentication, validations, and scalable workflows
+- 🚀 Contributed to CRM, Forex, Travel, and CPV Consular Passport & Visa systems
+- 📈 Focused on building scalable, maintainable, and clean architecture-based applications
 
 ---
 
@@ -30,13 +30,13 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql" />
 </p>
 
-* ASP.NET Core Web API
-* Entity Framework Core
-* FastEndpoints
-* LINQ
-* REST API Development
-* Authentication & Authorization
-* Business Logic Implementation
+- ASP.NET Core Web API
+- Entity Framework Core
+- FastEndpoints
+- LINQ
+- REST API Development
+- Authentication & Authorization
+- Business Logic Implementation
 
 ---
 
@@ -46,54 +46,50 @@
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,vite" />
 </p>
 
-* React.js
-* TypeScript
-* Redux
-* Tailwind CSS
-* Shadcn UI
-* React Hook Form
-* API Integration
-* Responsive UI Development
+- React.js
+- TypeScript
+- Redux
+- Tailwind CSS
+- Shadcn UI
+- React Hook Form
+- API Integration
+- Responsive UI Development
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🏢 CRM (Customer Relationship Management)
-
-* Developed frontend modules using React.js, TypeScript, and Redux
-* Built dashboards, customer workflows, forms, and API integrations
-* Implemented state management and responsive UI interactions
+- Developed frontend modules using React.js, TypeScript, and Redux
+- Built dashboards, customer workflows, forms, and API integrations
+- Implemented state management and responsive UI interactions
 
 ### ✈️ TravelMythri
-
-* Worked on frontend and backend development
-* Developed REST APIs using ASP.NET Core Web API and Entity Framework Core
-* Implemented business logic and database communication
+- Worked on frontend and backend development
+- Developed REST APIs using ASP.NET Core Web API and Entity Framework Core
+- Implemented business logic and database communication
 
 ### 💱 Forex System (Accounts Module)
-
-* Developed backend APIs for account and financial operations
-* Worked on validations, secure API integration, and PostgreSQL database operations
-* Implemented business logic for financial workflows
+- Developed backend APIs for account and financial operations
+- Worked on validations, secure API integration, and PostgreSQL database operations
+- Implemented business logic for financial workflows
 
 ### 🛂 CPV Consular Passport & Visa System
-
-* Worked on full-stack development using ASP.NET Core Web API and React.js
-* Developed APIs, authentication, validations, dashboards, forms, and status tracking
-* Integrated frontend workflows for passport and visa processing systems
+- Worked on full-stack development using ASP.NET Core Web API and React.js
+- Developed APIs, authentication, validations, dashboards, forms, and status tracking
+- Integrated frontend workflows for passport and visa processing systems
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VyshnaviRadhakrishnan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyshnaviRadhakrishnan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=VyshnaviRadhakrishnan&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -113,8 +109,8 @@
 
 ## ⚡ Current Focus
 
-* Scalable Backend API Development
-* Modern React + TypeScript Applications
-* Enterprise Application Architecture
-* Clean Code & Performance Optimization
-* Full Stack Development with .NET Ecosystem
+- Scalable Backend API Development
+- Modern React + TypeScript Applications
+- Enterprise Application Architecture
+- Clean Code & Performance Optimization
+- Full Stack Development with .NET Ecosystem
