@@ -57,29 +57,8 @@
 
 ---
 
-## 📌 Featured Projects
 
-### 🏢 CRM (Customer Relationship Management)
-- Developed frontend modules using React.js, TypeScript, and Redux
-- Built dashboards, customer workflows, forms, and API integrations
-- Implemented state management and responsive UI interactions
 
-### ✈️ TravelMythri
-- Worked on frontend and backend development
-- Developed REST APIs using ASP.NET Core Web API and Entity Framework Core
-- Implemented business logic and database communication
-
-### 💱 Forex System (Accounts Module)
-- Developed backend APIs for account and financial operations
-- Worked on validations, secure API integration, and PostgreSQL database operations
-- Implemented business logic for financial workflows
-
-### 🛂 CPV Consular Passport & Visa System
-- Worked on full-stack development using ASP.NET Core Web API and React.js
-- Developed APIs, authentication, validations, dashboards, forms, and status tracking
-- Integrated frontend workflows for passport and visa processing systems
-
----
 
 ## 📊 GitHub Analytics
 
